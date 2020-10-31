@@ -1,4 +1,5 @@
-● Volunteer Network - Help people in need
+Volunteer Network - Help people in need
+
 Live website | Frontend Code | Backend Code
 
 
@@ -19,6 +20,7 @@ Features
 
 
 Technology
+
 | React.js | Material UI | Node.js | Express.js | MongoDB | Firebase Authentication | Firebase Hosting |
 Heroku
 
